@@ -26,7 +26,7 @@ var requestData={
 
 var options = {
         method: "POST",
-        url:'https://api.github.com/repos/'+userName+'/'+repoName+'/hooks?access_token=4ca05f07ba7ebcaa82a88b093f37ba2eda5f9655',
+        url:'https://api.github.com/repos/'+userName+'/'+repoName+'/hooks?access_token=e26764c353718b51bd6ac6aac9a845f55f8cd44a',
         
        headers: {
             'Content-Type': 'application/json',
